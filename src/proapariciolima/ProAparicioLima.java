@@ -9,6 +9,5 @@ public static void main(String[] args) {
     System.out.println("Este es el cuarto cambio");
     System.out.println("Cambio Jon conflicto");
     System.out.println("Cambio Ugaitz Conflicto");
-    System.out.println("Aunque actualmente haya una rama, yo sigo trabajando en el Trunk");
 }  
 }
